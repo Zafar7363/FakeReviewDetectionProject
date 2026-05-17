@@ -2,6 +2,8 @@
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-00D2FF?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-38EF7D?style=for-the-badge)
 
+**🔴 Live Demo:** [View the Dashboard on shinyapps.io](https://zafar.shinyapps.io/fakereviewdetectionproject/)
+
 A fully interactive, dark-themed **R Shiny Dashboard** designed to detect fraudulent e-commerce product reviews using a combination of **Natural Language Processing (NLP)** and **Behavioral Machine Learning**.
 
 ## ✨ Features
